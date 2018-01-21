@@ -32,7 +32,6 @@ class DetailVC: UIViewController,UITextFieldDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.updateUI()
-        print("Hello")
     }
     
     override func viewDidAppear(_ animated: Bool) {
