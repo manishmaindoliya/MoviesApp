@@ -1,12 +1,20 @@
 # MoviesApp
 About Application: Information about Movies
+
 Design Pattern: MVC
+
 Language: swift 4.0
+
 IDE Version: Xcode 9.2
+
 Layout Approach: AutoLayout
+
 Application For : iPhone/iPad
+
 Supported Orientation: Portrait/Landscape
+
 API Reference: Internet Movie Database (IMDB)
+
 Library: Alamofire, SDWebImage,SkyFloatingLabelTextField,NVActivityIndicatorView,IQKeyboardManagerSwift
 
 Description :
